@@ -14,5 +14,6 @@ import java.util.Map;
 public class AEventDetails {
     private String name;
     private String description;
+    private int limit=-1;
     private Map<String, String> custom;
 }
