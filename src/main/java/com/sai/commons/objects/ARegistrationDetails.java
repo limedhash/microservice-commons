@@ -14,6 +14,7 @@ import java.util.Map;
 public class ARegistrationDetails {
 
     private String name;
+    private String registrationDetailsId;
     private String email;
     private String phone;
     private String eventId;

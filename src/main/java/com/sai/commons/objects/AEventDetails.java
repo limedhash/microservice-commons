@@ -12,6 +12,7 @@ import java.util.Map;
 @AllArgsConstructor
 @NoArgsConstructor
 public class AEventDetails {
+    private String eventId;
     private String name;
     private String description;
     private int limit=-1;
