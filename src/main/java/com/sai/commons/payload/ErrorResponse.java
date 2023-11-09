@@ -1,4 +1,4 @@
-package com.sai.commons.response;
+package com.sai.commons.payload;
 
 
 import lombok.AllArgsConstructor;
